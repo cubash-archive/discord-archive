@@ -11,7 +11,7 @@ Bots (in the process of being archived)
 <br>
 ~~Bug reports (in the process of being archived)~~ Completed
 <br>
-user reports (in the process of being archived)
+~~user reports (in the process of being archived)~~ Completed
 <br>
 ~~Account support (in the process of being archived)~~ Completed
 <br>
