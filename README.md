@@ -13,7 +13,7 @@ Bug reports (in the process of being archived)
 <br>
 user reports (in the process of being archived)
 <br>
-Account support (in the process of being archived)
+~~Account support (in the process of being archived)~~ Completed
 <br>
 Keep in mind a lot of these channels have a lot of text so this will take awhile.
 
