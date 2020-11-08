@@ -9,7 +9,7 @@ Suggestions (in the process of being archived)
 <br>
 Bots (in the process of being archived)
 <br>
-Bug reports (in the process of being archived)
+~~Bug reports (in the process of being archived)~~
 <br>
 user reports (in the process of being archived)
 <br>
