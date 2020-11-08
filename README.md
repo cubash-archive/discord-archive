@@ -3,7 +3,7 @@ This is a full archive of the Cubash Discord Server since Cubash is shutting dow
 # Missing
 ~~General (in the process of being archived)~~ Completed
 <br>
-Off-topic (in the process of being archived)
+~~Off-topic (in the process of being archived)~~
 <br>
 Suggestions (in the process of being archived)
 <br>
